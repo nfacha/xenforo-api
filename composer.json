@@ -1,6 +1,7 @@
 {
     "name": "nfacha/xenforo-api",
     "description": "PHP Class to interact with Xenforo 2.1+ API",
+    "version": "1.0",
     "type": "library",
     "require": {
         "php-curl-class/php-curl-class": "^8.4"
